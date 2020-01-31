@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="qryWIAGBischoefeGatzXML_v2.xsd" generated="2020-01-31T08:44:59">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="WIAGBischoefeGatzXML.xsd" generated="2020-01-31T12:27:04">
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2518-001</WIAG_ID>
 <Vorname>Udalschalk</Vorname>
@@ -126,8 +126,7 @@
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2526-001</WIAG_ID>
 <Vorname>Friedrich</Vorname>
-<Praefix>Spät von</Praefix>
-<Familienname>Faimingen</Familienname>
+<Familienname>Spät von Faimingen</Familienname>
 <Sterbedatum>1331</Sterbedatum>
 <Bistum>Augsburg</Bistum>
 <Amtsart>Bischof</Amtsart>
@@ -171,9 +170,9 @@
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2529-001</WIAG_ID>
-<Vorname>Markward</Vorname>
+<Vorname>Marquard</Vorname>
 <Praefix>von</Praefix>
-<Familienname>Randegg</Familienname>
+<Familienname>Randeck</Familienname>
 <Sterbedatum>1381</Sterbedatum>
 <Bistum>Augsburg</Bistum>
 <Amtsart>Bischof</Amtsart>
@@ -296,7 +295,7 @@
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2538-001</WIAG_ID>
-<Vorname>Eberhard</Vorname>
+<Vorname>Ekbert</Vorname>
 <Praefix>von</Praefix>
 <Familienname>Andechs</Familienname>
 <Sterbedatum>1237</Sterbedatum>
@@ -362,7 +361,7 @@
 <WIAG_ID>WIAG-Pers-EPISCGatz-2542-001</WIAG_ID>
 <Vorname>Heinrich</Vorname>
 <Praefix>von</Praefix>
-<Familienname>Bildersheim</Familienname>
+<Familienname>Bilversheim</Familienname>
 <Sterbedatum>1257</Sterbedatum>
 <Bistum>Bamberg</Bistum>
 <Amtsart>Bischof</Amtsart>
@@ -624,8 +623,8 @@
 <Sterbedatum>1421</Sterbedatum>
 <Bistum>Bamberg</Bistum>
 <Amtsart>Elekt</Amtsart>
-<Amtsbeginn>1363</Amtsbeginn>
-<Amtsende>1364</Amtsende>
+<Amtsbeginn>1398</Amtsbeginn>
+<Amtsende>1421</Amtsende>
 <Reihenfolge_im_Amt>155300</Reihenfolge_im_Amt>
 <GND_ID>133250660</GND_ID>
 <Wikidata_ID>Q1527505</Wikidata_ID>
@@ -741,8 +740,7 @@
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2568-001</WIAG_ID>
 <Vorname>Peter</Vorname>
-<Praefix>Reich von</Praefix>
-<Familienname>Reichenstein</Familienname>
+<Familienname>Reich von Reichenstein</Familienname>
 <Sterbedatum>1296</Sterbedatum>
 <Bistum>Basel</Bistum>
 <Amtsart>Bischof</Amtsart>
@@ -774,9 +772,8 @@
 <Sterbedatum>1316</Sterbedatum>
 <Bistum>Basel</Bistum>
 <Amtsart>Elekt</Amtsart>
-<Amtsbeginn>1309</Amtsbeginn>
-<Amtsende>1311</Amtsende>
-<Reihenfolge_im_Amt>156300</Reihenfolge_im_Amt>
+<Amtsbeginn>1296</Amtsbeginn>
+<Reihenfolge_im_Amt>156400</Reihenfolge_im_Amt>
 <GND_ID>1017795371</GND_ID>
 <Wikidata_ID>Q1880420</Wikidata_ID>
 <VIAF_ID>221132811</VIAF_ID>
@@ -791,7 +788,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1306</Amtsbeginn>
 <Amtsende>1309</Amtsende>
-<Reihenfolge_im_Amt>156400</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>156300</Reihenfolge_im_Amt>
 <GND_ID>138457069</GND_ID>
 <Wikidata_ID>Q1314500</Wikidata_ID>
 <VIAF_ID>89995859</VIAF_ID>
@@ -816,8 +813,7 @@
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2573-001</WIAG_ID>
 <Vorname>Hartung</Vorname>
-<Praefix>Münch von</Praefix>
-<Familienname>Landskron</Familienname>
+<Familienname>Münch von Landskron</Familienname>
 <Sterbedatum>1332</Sterbedatum>
 <Bistum>Basel</Bistum>
 <Amtsart>Bischof</Amtsart>
@@ -831,8 +827,7 @@
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2574-001</WIAG_ID>
 <Vorname>Johann</Vorname>
-<Praefix>Senn von</Praefix>
-<Familienname>Münsingen</Familienname>
+<Familienname>Senn von Münsingen</Familienname>
 <Sterbedatum>1365</Sterbedatum>
 <Bistum>Basel</Bistum>
 <Amtsart>Bischof</Amtsart>
@@ -851,8 +846,8 @@
 <Geburtsdatum>1300</Geburtsdatum>
 <Bistum>Basel</Bistum>
 <Amtsart>Bischof</Amtsart>
-<Amtsbeginn>1328</Amtsbeginn>
-<Amtsende>1335</Amtsende>
+<Amtsbeginn>1325</Amtsbeginn>
+<Amtsende>1328</Amtsende>
 <Reihenfolge_im_Amt>156700</Reihenfolge_im_Amt>
 <GND_ID>1068144513</GND_ID>
 <Wikidata_ID>Q1678398</Wikidata_ID>
@@ -915,8 +910,7 @@
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2580-001</WIAG_ID>
 <Vorname>Konrad</Vorname>
-<Praefix>Münch von</Praefix>
-<Familienname>Landskron</Familienname>
+<Familienname>Münch von Landskron</Familienname>
 <Sterbedatum>1402</Sterbedatum>
 <Bistum>Basel</Bistum>
 <Amtsart>Elekt</Amtsart>
@@ -967,8 +961,7 @@
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2584-001</WIAG_ID>
 <Vorname>Hartmann</Vorname>
-<Praefix>Münch von</Praefix>
-<Familienname>Münchenstein</Familienname>
+<Familienname>Münch von Münchenstein</Familienname>
 <Sterbedatum>1424</Sterbedatum>
 <Bistum>Basel</Bistum>
 <Amtsart>Bischof</Amtsart>
@@ -988,7 +981,7 @@
 <Amtsbeginn>1437</Amtsbeginn>
 <Amtsende>1440</Amtsende>
 <Reihenfolge_im_Amt>157800</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84024882</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2587-001</WIAG_ID>
@@ -1246,8 +1239,7 @@
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2606-001</WIAG_ID>
 <Vorname>Ludwig</Vorname>
-<Praefix>Schenk von</Praefix>
-<Familienname>Neindorf</Familienname>
+<Familienname>Schenk von Neindorf</Familienname>
 <Sterbedatum>1347</Sterbedatum>
 <Bistum>Brandenburg</Bistum>
 <Amtsart>Bischof</Amtsart>
@@ -2016,7 +2008,7 @@
 <Familienname>Schlüsselberg</Familienname>
 <Sterbedatum>1322</Sterbedatum>
 <Bistum>Brixen</Bistum>
-<Amtsart>Elekt</Amtsart>
+<Amtsart>Ernannter Bischof</Amtsart>
 <Amtsbeginn>1322</Amtsbeginn>
 <Reihenfolge_im_Amt>164800</Reihenfolge_im_Amt>
 <GND_ID>139735224</GND_ID>
@@ -2055,8 +2047,7 @@
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2662-001</WIAG_ID>
 <Vorname>Johann</Vorname>
-<Praefix>Ribi von</Praefix>
-<Familienname>Lenzburg</Familienname>
+<Familienname>Ribi von Lenzburg</Familienname>
 <Sterbedatum>1374</Sterbedatum>
 <Bistum>Brixen</Bistum>
 <Amtsart>Bischof</Amtsart>
@@ -2359,7 +2350,7 @@
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2684-001</WIAG_ID>
 <Vorname>Friedrich</Vorname>
-<Familienname>Deys (Theis von Thesingen)</Familienname>
+<Familienname>Deys</Familienname>
 <Sterbedatum>1429</Sterbedatum>
 <Geburtsdatum>um 1365</Geburtsdatum>
 <Bistum>Chiemsee</Bistum>
@@ -2577,8 +2568,7 @@
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2700-001</WIAG_ID>
 <Vorname>Ulrich</Vorname>
-<Praefix>von</Praefix>
-<Familienname>Lenzburg</Familienname>
+<Familienname>Ribi von Lenzburg</Familienname>
 <Sterbedatum>1355</Sterbedatum>
 <Bistum>Chur</Bistum>
 <Amtsart>Bischof</Amtsart>
@@ -2600,7 +2590,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1412(?)</Amtsbeginn>
 <Amtsende>1416</Amtsende>
-<Reihenfolge_im_Amt>168800</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>168900</Reihenfolge_im_Amt>
 <GND_ID>137461518</GND_ID>
 <Wikidata_ID>Q1587323</Wikidata_ID>
 <VIAF_ID>81649708</VIAF_ID>
@@ -2608,13 +2598,13 @@
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2702-001</WIAG_ID>
 <Vorname>Johann</Vorname>
-<Praefix>Naso (Naz)</Praefix>
+<Familienname>Naso</Familienname>
 <Sterbedatum>1440</Sterbedatum>
 <Bistum>Chur</Bistum>
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1418</Amtsbeginn>
 <Amtsende>1440</Amtsende>
-<Reihenfolge_im_Amt>168900</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>169000</Reihenfolge_im_Amt>
 <GND_ID>138773394</GND_ID>
 <Wikidata_ID>Q1628390</Wikidata_ID>
 <GSN_ID>023-01794-001</GSN_ID>
@@ -2630,7 +2620,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1377(?)</Amtsbeginn>
 <Amtsende>1388</Amtsende>
-<Reihenfolge_im_Amt>169000</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>168800</Reihenfolge_im_Amt>
 <Wikidata_ID>Q1698049</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -2689,7 +2679,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1268</Amtsbeginn>
 <Amtsende>1288</Amtsende>
-<Reihenfolge_im_Amt>169400</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>169600</Reihenfolge_im_Amt>
 <GND_ID>136025803</GND_ID>
 <Wikidata_ID>Q1439536</Wikidata_ID>
 <VIAF_ID>80439806</VIAF_ID>
@@ -2715,7 +2705,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1251</Amtsbeginn>
 <Amtsende>1263?</Amtsende>
-<Reihenfolge_im_Amt>169600</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>169400</Reihenfolge_im_Amt>
 <Wikidata_ID>Q84037195</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -2726,7 +2716,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1313</Amtsbeginn>
 <Amtsende>1323</Amtsende>
-<Reihenfolge_im_Amt>169700</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>169900</Reihenfolge_im_Amt>
 <Wikidata_ID>Q84037203</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -2752,7 +2742,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1289</Amtsbeginn>
 <Amtsende>1302</Amtsende>
-<Reihenfolge_im_Amt>169900</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>169700</Reihenfolge_im_Amt>
 <GND_ID>1072637251</GND_ID>
 <Wikidata_ID>Q84037207</Wikidata_ID>
 <VIAF_ID>316500707</VIAF_ID>
@@ -2767,7 +2757,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1373</Amtsbeginn>
 <Amtsende>1378</Amtsende>
-<Reihenfolge_im_Amt>170000</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>170200</Reihenfolge_im_Amt>
 <Wikidata_ID>Q68912331</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -2791,7 +2781,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1342</Amtsbeginn>
 <Amtsende>1344</Amtsende>
-<Reihenfolge_im_Amt>170200</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>170000</Reihenfolge_im_Amt>
 <Wikidata_ID>Q68912513</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -2804,7 +2794,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1379?</Amtsbeginn>
 <Amtsende>1400</Amtsende>
-<Reihenfolge_im_Amt>170300</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>170400</Reihenfolge_im_Amt>
 <GND_ID>106640593X</GND_ID>
 <Wikidata_ID>Q64776820</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
@@ -3889,7 +3879,7 @@
 <Amtsart>Bischof, avignonesische Obödienz</Amtsart>
 <Amtsbeginn>1379</Amtsbeginn>
 <Amtsende>1380/81</Amtsende>
-<Reihenfolge_im_Amt>170400</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>170300</Reihenfolge_im_Amt>
 <Wikidata_ID>Q84037210</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -3902,7 +3892,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1400</Amtsbeginn>
 <Amtsende>1410</Amtsende>
-<Reihenfolge_im_Amt>170500</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>170600</Reihenfolge_im_Amt>
 <Wikidata_ID>Q68912668</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -3915,7 +3905,7 @@
 <Amtsart>Koadjutor des Bischofs</Amtsart>
 <Amtsbeginn>1395</Amtsbeginn>
 <Amtsende>1397?</Amtsende>
-<Reihenfolge_im_Amt>170600</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>170500</Reihenfolge_im_Amt>
 <GND_ID>139486496</GND_ID>
 <Wikidata_ID>Q321964</Wikidata_ID>
 <VIAF_ID>101220753</VIAF_ID>
@@ -3923,14 +3913,14 @@
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2721-001</WIAG_ID>
 <Vorname>Dietrich</Vorname>
-<Familienname>Reseler von Northeim (Nortun, Northem)</Familienname>
+<Familienname>Reseler von Northeim</Familienname>
 <Sterbedatum>1441</Sterbedatum>
 <Geburtsdatum>um 1365</Geburtsdatum>
 <Bistum>Dorpat</Bistum>
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1413</Amtsbeginn>
 <Amtsende>1441</Amtsende>
-<Reihenfolge_im_Amt>170700</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>170800</Reihenfolge_im_Amt>
 <GND_ID>1066405557</GND_ID>
 <Wikidata_ID>Q1223997</Wikidata_ID>
 <VIAF_ID>313474258</VIAF_ID>
@@ -3944,7 +3934,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1410</Amtsbeginn>
 <Amtsende>1413</Amtsende>
-<Reihenfolge_im_Amt>170800</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>170700</Reihenfolge_im_Amt>
 <GND_ID>1072630648</GND_ID>
 <Wikidata_ID>Q84037215</Wikidata_ID>
 <VIAF_ID>316500439</VIAF_ID>
@@ -4018,7 +4008,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1232</Amtsbeginn>
 <Amtsende>1237</Amtsende>
-<Reihenfolge_im_Amt>171300</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>171400</Reihenfolge_im_Amt>
 <GND_ID>1201742269</GND_ID>
 <Wikidata_ID>Q1597806</Wikidata_ID>
 <GSN_ID>059-00779-001</GSN_ID>
@@ -4033,7 +4023,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1228</Amtsbeginn>
 <Amtsende>1231</Amtsende>
-<Reihenfolge_im_Amt>171400</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>171300</Reihenfolge_im_Amt>
 <Wikidata_ID>Q1597766</Wikidata_ID>
 <GSN_ID>059-00778-001</GSN_ID>
 </qryWIAGBischoefeGatzXML_v2>
@@ -4247,8 +4237,7 @@
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2743-001</WIAG_ID>
 <Vorname>Raban</Vorname>
-<Praefix>Truchseß von</Praefix>
-<Familienname>Wildburgstetten</Familienname>
+<Familienname>Truchseß von Wildburgstetten</Familienname>
 <Sterbedatum>1383</Sterbedatum>
 <Geburtsdatum>um 1295</Geburtsdatum>
 <Bistum>Eichstätt</Bistum>
@@ -4345,7 +4334,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1327</Amtsbeginn>
 <Amtsende>1328</Amtsende>
-<Reihenfolge_im_Amt>173400</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>173500</Reihenfolge_im_Amt>
 <Wikidata_ID>Q1703598</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -4359,7 +4348,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1300/01</Amtsbeginn>
 <Amtsende>1326</Amtsende>
-<Reihenfolge_im_Amt>173500</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>173400</Reihenfolge_im_Amt>
 <GND_ID>1068840587</GND_ID>
 <Wikidata_ID>Q1279614</Wikidata_ID>
 <VIAF_ID>315108791</VIAF_ID>
@@ -4379,7 +4368,7 @@
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2753-001</WIAG_ID>
 <Vorname>Martin</Vorname>
-<Familienname>Zindal (Czindal, de Sindato, de Guideto)</Familienname>
+<Familienname>Zindal</Familienname>
 <Sterbedatum>frühestens 1356</Sterbedatum>
 <Bistum>Ermland</Bistum>
 <Amtsart>Elekt</Amtsart>
@@ -4416,12 +4405,12 @@
 <Amtsbeginn>1350</Amtsbeginn>
 <Amtsende>1355</Amtsende>
 <Reihenfolge_im_Amt>173900</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037217</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2756-001</WIAG_ID>
 <Vorname>Johannes</Vorname>
-<Familienname>Stryprock (Streifrock)</Familienname>
+<Familienname>Stryprock</Familienname>
 <Sterbedatum>1373</Sterbedatum>
 <Geburtsdatum>um 1300</Geburtsdatum>
 <Bistum>Ermland</Bistum>
@@ -4434,7 +4423,7 @@
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2757-001</WIAG_ID>
 <Vorname>Heinrich</Vorname>
-<Familienname> Sorbom (Sauerbaum)</Familienname>
+<Familienname> Sorbom</Familienname>
 <Sterbedatum>1401</Sterbedatum>
 <Geburtsdatum>um 1340</Geburtsdatum>
 <Bistum>Ermland</Bistum>
@@ -4443,13 +4432,13 @@
 <Amtsende>1401</Amtsende>
 <Reihenfolge_im_Amt>174100</Reihenfolge_im_Amt>
 <GND_ID>1041358547</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037219</Wikidata_ID>
 <VIAF_ID>305162740</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2758-001</WIAG_ID>
 <Vorname>Heinrich</Vorname>
-<Familienname>Vogelsang (von Heilsberg)</Familienname>
+<Familienname>Vogelsang</Familienname>
 <Sterbedatum>1415</Sterbedatum>
 <Geburtsdatum>um 1360</Geburtsdatum>
 <Bistum>Ermland</Bistum>
@@ -4636,19 +4625,19 @@
 <Amtsbeginn>1325</Amtsbeginn>
 <Amtsende>1327</Amtsende>
 <Reihenfolge_im_Amt>175400</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037227</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2772-001</WIAG_ID>
 <Vorname>Johannes</Vorname>
-<Familienname>Hacke (Hake)</Familienname>
+<Familienname>Hacke</Familienname>
 <Sterbedatum>1349</Sterbedatum>
 <Geburtsdatum>um 1280?</Geburtsdatum>
 <Bistum>Freising</Bistum>
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1341</Amtsbeginn>
 <Amtsende>1349</Amtsende>
-<Reihenfolge_im_Amt>175500</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>175600</Reihenfolge_im_Amt>
 <GND_ID>102529787</GND_ID>
 <Wikidata_ID>Q1697751</Wikidata_ID>
 <GSN_ID>005-04800-001</GSN_ID>
@@ -4664,8 +4653,8 @@
 <Amtsart>Elekt</Amtsart>
 <Amtsbeginn>1341</Amtsbeginn>
 <Amtsende>1342</Amtsende>
-<Reihenfolge_im_Amt>175600</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Reihenfolge_im_Amt>175500</Reihenfolge_im_Amt>
+<Wikidata_ID>Q84037233</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2774-001</WIAG_ID>
@@ -4679,7 +4668,7 @@
 <Amtsende>1347</Amtsende>
 <Reihenfolge_im_Amt>175700</Reihenfolge_im_Amt>
 <GND_ID>13797924X</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037236</Wikidata_ID>
 <GSN_ID>023-02024-001</GSN_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -4900,7 +4889,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1279</Amtsbeginn>
 <Amtsende>1281</Amtsende>
-<Reihenfolge_im_Amt>177300</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>177400</Reihenfolge_im_Amt>
 <GND_ID>136293468</GND_ID>
 <Wikidata_ID>Q1696777</Wikidata_ID>
 <GSN_ID>019-01546-001</GSN_ID>
@@ -4916,7 +4905,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1256(?)</Amtsbeginn>
 <Amtsende>1278</Amtsende>
-<Reihenfolge_im_Amt>177400</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>177300</Reihenfolge_im_Amt>
 <Wikidata_ID>Q1224181</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -4964,7 +4953,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1337</Amtsbeginn>
 <Amtsende>1344</Amtsende>
-<Reihenfolge_im_Amt>177800</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>177900</Reihenfolge_im_Amt>
 <GND_ID>1018386157</GND_ID>
 <Wikidata_ID>Q1584696</Wikidata_ID>
 <VIAF_ID>221087947</VIAF_ID>
@@ -4977,7 +4966,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1334</Amtsbeginn>
 <Amtsende>1337</Amtsende>
-<Reihenfolge_im_Amt>177900</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>177800</Reihenfolge_im_Amt>
 <Wikidata_ID>Q1870156</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -4988,7 +4977,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1364</Amtsbeginn>
 <Amtsende>1376</Amtsende>
-<Reihenfolge_im_Amt>178000</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>178100</Reihenfolge_im_Amt>
 <Wikidata_ID>Q1698779</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -5001,7 +4990,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1345</Amtsbeginn>
 <Amtsende>1351</Amtsende>
-<Reihenfolge_im_Amt>178100</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>178000</Reihenfolge_im_Amt>
 <Wikidata_ID>Q1285012</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -5038,7 +5027,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1201</Amtsbeginn>
 <Amtsende>1208</Amtsende>
-<Reihenfolge_im_Amt>178400</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>178500</Reihenfolge_im_Amt>
 <GND_ID>1030492891</GND_ID>
 <Wikidata_ID>Q1782430</Wikidata_ID>
 <GSN_ID>060-02417-001</GSN_ID>
@@ -5054,7 +5043,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1193</Amtsbeginn>
 <Amtsende>1201</Amtsende>
-<Reihenfolge_im_Amt>178500</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>178400</Reihenfolge_im_Amt>
 <Wikidata_ID>Q68904570</Wikidata_ID>
 <GSN_ID>063-00473-001</GSN_ID>
 </qryWIAGBischoefeGatzXML_v2>
@@ -5068,7 +5057,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1236</Amtsbeginn>
 <Amtsende>1241</Amtsende>
-<Reihenfolge_im_Amt>178600</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>178700</Reihenfolge_im_Amt>
 <Wikidata_ID>Q64762306</Wikidata_ID>
 <GSN_ID>060-02674-001</GSN_ID>
 </qryWIAGBischoefeGatzXML_v2>
@@ -5082,7 +5071,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1209</Amtsbeginn>
 <Amtsende>1236</Amtsende>
-<Reihenfolge_im_Amt>178700</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>178600</Reihenfolge_im_Amt>
 <GND_ID>1029512566</GND_ID>
 <Wikidata_ID>Q64760868</Wikidata_ID>
 <GSN_ID>060-01167-001</GSN_ID>
@@ -5303,7 +5292,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1220</Amtsbeginn>
 <Amtsende>1244</Amtsende>
-<Reihenfolge_im_Amt>180200</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>180400</Reihenfolge_im_Amt>
 <GND_ID>1073229807</GND_ID>
 <Wikidata_ID>Q2575901</Wikidata_ID>
 <GSN_ID>063-01904-001</GSN_ID>
@@ -5317,7 +5306,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1191</Amtsbeginn>
 <Amtsende>1206</Amtsende>
-<Reihenfolge_im_Amt>180300</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>180200</Reihenfolge_im_Amt>
 <GND_ID>1070887439</GND_ID>
 <Wikidata_ID>Q68795186</Wikidata_ID>
 <GSN_ID>063-00740-001</GSN_ID>
@@ -5333,7 +5322,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1206/07</Amtsbeginn>
 <Amtsende>1220</Amtsende>
-<Reihenfolge_im_Amt>180400</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>180300</Reihenfolge_im_Amt>
 <GND_ID>1070948594</GND_ID>
 <Wikidata_ID>Q68817725</Wikidata_ID>
 <GSN_ID>063-01654-001</GSN_ID>
@@ -5375,7 +5364,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1291</Amtsbeginn>
 <Amtsende>1292</Amtsende>
-<Reihenfolge_im_Amt>180700</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>180800</Reihenfolge_im_Amt>
 <Wikidata_ID>Q1696758</Wikidata_ID>
 <GSN_ID>005-04170-002</GSN_ID>
 </qryWIAGBischoefeGatzXML_v2>
@@ -5389,7 +5378,7 @@
 <Amtsart>Providierter Bischof</Amtsart>
 <Amtsbeginn>1290</Amtsbeginn>
 <Amtsende>1291</Amtsende>
-<Reihenfolge_im_Amt>180800</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>180700</Reihenfolge_im_Amt>
 <GND_ID>138771529</GND_ID>
 <Wikidata_ID>Q69761</Wikidata_ID>
 <GSN_ID>060-01853-001</GSN_ID>
@@ -5397,7 +5386,7 @@
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2830-001</WIAG_ID>
-<Vorname>Johann</Vorname>
+<Vorname>Johannes</Vorname>
 <Praefix>von</Praefix>
 <Familienname>Gardelegen</Familienname>
 <Sterbedatum>1304</Sterbedatum>
@@ -5460,7 +5449,7 @@
 <Amtsbeginn>1319</Amtsbeginn>
 <Amtsende>1324</Amtsende>
 <Reihenfolge_im_Amt>181300</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037240</Wikidata_ID>
 <GSN_ID>063-00656-001</GSN_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -5492,7 +5481,7 @@
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2837-001</WIAG_ID>
 <Vorname>Burchard</Vorname>
-<Praefix>Graf von</Praefix>
+<Praefix>Graf zu</Praefix>
 <Familienname>Lindow</Familienname>
 <Sterbedatum>1370</Sterbedatum>
 <Bistum>Havelberg</Bistum>
@@ -5527,7 +5516,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1401</Amtsbeginn>
 <Amtsende>1427</Amtsende>
-<Reihenfolge_im_Amt>181800</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>181900</Reihenfolge_im_Amt>
 <GND_ID>1013117948</GND_ID>
 <Wikidata_ID>Q44227919</Wikidata_ID>
 <GSN_ID>003-01915-017</GSN_ID>
@@ -5541,8 +5530,8 @@
 <Bistum>Havelberg</Bistum>
 <Amtsart>Providierter Bischof</Amtsart>
 <Amtsbeginn>1427</Amtsbeginn>
-<Reihenfolge_im_Amt>181900</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Reihenfolge_im_Amt>182000</Reihenfolge_im_Amt>
+<Wikidata_ID>Q84037241</Wikidata_ID>
 <GSN_ID>003-01261-005</GSN_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -5554,7 +5543,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1385</Amtsbeginn>
 <Amtsende>1401</Amtsende>
-<Reihenfolge_im_Amt>182000</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>181800</Reihenfolge_im_Amt>
 <GND_ID>1013085426</GND_ID>
 <Wikidata_ID>Q68912490</Wikidata_ID>
 <GSN_ID>063-00886-001</GSN_ID>
@@ -5570,7 +5559,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1427</Amtsbeginn>
 <Reihenfolge_im_Amt>182100</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037250</Wikidata_ID>
 <GSN_ID>003-00169-002</GSN_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -5629,7 +5618,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1257</Amtsbeginn>
 <Amtsende>1260</Amtsende>
-<Reihenfolge_im_Amt>182500</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>182600</Reihenfolge_im_Amt>
 <GND_ID>1034914243</GND_ID>
 <Wikidata_ID>Q15821292</Wikidata_ID>
 <GSN_ID>060-02172-001</GSN_ID>
@@ -5642,7 +5631,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1246</Amtsbeginn>
 <Amtsende>1257</Amtsende>
-<Reihenfolge_im_Amt>182600</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>182500</Reihenfolge_im_Amt>
 <GND_ID>1034910124</GND_ID>
 <Wikidata_ID>Q15814791</Wikidata_ID>
 <GSN_ID>060-01627-001</GSN_ID>
@@ -5657,7 +5646,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1279</Amtsbeginn>
 <Amtsende>1310</Amtsende>
-<Reihenfolge_im_Amt>182700</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>182800</Reihenfolge_im_Amt>
 <GND_ID>13645755X</GND_ID>
 <Wikidata_ID>Q2283432</Wikidata_ID>
 <GSN_ID>060-03429-001</GSN_ID>
@@ -5674,7 +5663,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1260</Amtsbeginn>
 <Amtsende>1279</Amtsende>
-<Reihenfolge_im_Amt>182800</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>182700</Reihenfolge_im_Amt>
 <GND_ID>13879376X</GND_ID>
 <Wikidata_ID>Q100723</Wikidata_ID>
 <GSN_ID>060-03047-001</GSN_ID>
@@ -5705,7 +5694,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1352</Amtsbeginn>
 <Amtsende>1362</Amtsende>
-<Reihenfolge_im_Amt>183000</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>183200</Reihenfolge_im_Amt>
 <GND_ID>137944950</GND_ID>
 <Wikidata_ID>Q1597809</Wikidata_ID>
 <GSN_ID>060-01636-001</GSN_ID>
@@ -5721,7 +5710,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1319</Amtsbeginn>
 <Amtsende>1331</Amtsende>
-<Reihenfolge_im_Amt>183100</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>183000</Reihenfolge_im_Amt>
 <GND_ID>138459363</GND_ID>
 <Wikidata_ID>Q2039329</Wikidata_ID>
 <GSN_ID>060-03049-001</GSN_ID>
@@ -5737,16 +5726,16 @@
 <Amtsart>Ernannter Bischof</Amtsart>
 <Amtsbeginn>1331</Amtsbeginn>
 <Amtsende>1349?</Amtsende>
-<Reihenfolge_im_Amt>183200</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>183100</Reihenfolge_im_Amt>
 <GND_ID>137525222</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037252</Wikidata_ID>
 <GSN_ID>060-01065-001</GSN_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2855-001</WIAG_ID>
 <Vorname>Gerhard</Vorname>
 <Praefix>vom</Praefix>
-<Familienname>Berge (Schalksberg)</Familienname>
+<Familienname>Berge</Familienname>
 <Sterbedatum>1398</Sterbedatum>
 <Bistum>Hildesheim</Bistum>
 <Amtsart>Bischof</Amtsart>
@@ -5796,7 +5785,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1233</Amtsbeginn>
 <Amtsende>1241</Amtsende>
-<Reihenfolge_im_Amt>183600</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>183700</Reihenfolge_im_Amt>
 <GND_ID>136418570</GND_ID>
 <Wikidata_ID>Q24884</Wikidata_ID>
 <GSN_ID>005-05588-001</GSN_ID>
@@ -5810,7 +5799,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1219</Amtsbeginn>
 <Amtsende>1233</Amtsende>
-<Reihenfolge_im_Amt>183700</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>183600</Reihenfolge_im_Amt>
 <Wikidata_ID>Q1446266</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -5823,7 +5812,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1251</Amtsbeginn>
 <Amtsende>1288/89</Amtsende>
-<Reihenfolge_im_Amt>183800</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>183900</Reihenfolge_im_Amt>
 <GND_ID>136099017</GND_ID>
 <Wikidata_ID>Q1613214</Wikidata_ID>
 <GSN_ID>060-01819-001</GSN_ID>
@@ -5837,7 +5826,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1244</Amtsbeginn>
 <Amtsende>1251</Amtsende>
-<Reihenfolge_im_Amt>183900</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>183800</Reihenfolge_im_Amt>
 <GND_ID>1074118782</GND_ID>
 <Wikidata_ID>Q23062192</Wikidata_ID>
 <VIAF_ID>316769180</VIAF_ID>
@@ -5851,7 +5840,7 @@
 <Geburtsdatum>um 1267</Geburtsdatum>
 <Bistum>Kammin</Bistum>
 <Amtsart>Gewählter und konfirmierter Bischof</Amtsart>
-<Amtsbeginn>um 1267</Amtsbeginn>
+<Amtsbeginn>1289</Amtsbeginn>
 <Amtsende>1293/94</Amtsende>
 <Reihenfolge_im_Amt>184000</Reihenfolge_im_Amt>
 <Wikidata_ID>Q538799</Wikidata_ID>
@@ -5864,7 +5853,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1296</Amtsbeginn>
 <Amtsende>1300</Amtsende>
-<Reihenfolge_im_Amt>184100</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>184200</Reihenfolge_im_Amt>
 <Wikidata_ID>Q11817552</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -5875,7 +5864,7 @@
 <Amtsart>Elekt</Amtsart>
 <Amtsbeginn>1294</Amtsbeginn>
 <Amtsende>1296</Amtsende>
-<Reihenfolge_im_Amt>184200</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>184100</Reihenfolge_im_Amt>
 <Wikidata_ID>Q23062058</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -5886,7 +5875,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1317</Amtsbeginn>
 <Amtsende>1324</Amtsende>
-<Reihenfolge_im_Amt>184300</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>184400</Reihenfolge_im_Amt>
 <Wikidata_ID>Q23960097</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -5899,7 +5888,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1302</Amtsbeginn>
 <Amtsende>1317</Amtsende>
-<Reihenfolge_im_Amt>184400</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>184300</Reihenfolge_im_Amt>
 <GND_ID>1074027132</GND_ID>
 <Wikidata_ID>Q97693</Wikidata_ID>
 <VIAF_ID>316767339</VIAF_ID>
@@ -5915,7 +5904,7 @@
 <Amtsbeginn>1324?</Amtsbeginn>
 <Amtsende>1334</Amtsende>
 <Reihenfolge_im_Amt>184500</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037255</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2869-001</WIAG_ID>
@@ -5944,7 +5933,7 @@
 <Amtsbeginn>1329</Amtsbeginn>
 <Amtsende>?</Amtsende>
 <Reihenfolge_im_Amt>184700</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037257</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2871-001</WIAG_ID>
@@ -6001,7 +5990,7 @@
 <Amtsart>Elekt</Amtsart>
 <Amtsbeginn>1386</Amtsbeginn>
 <Amtsende>1387</Amtsende>
-<Reihenfolge_im_Amt>185100</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>185200</Reihenfolge_im_Amt>
 <GND_ID>137841264</GND_ID>
 <Wikidata_ID>Q317133</Wikidata_ID>
 <GSN_ID>050-00911-001</GSN_ID>
@@ -6010,13 +5999,13 @@
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2875-001</WIAG_ID>
 <Vorname>Johann</Vorname>
-<Familienname>Willekini (Wilcken, Wilkens)</Familienname>
+<Familienname>Willekini</Familienname>
 <Sterbedatum>1386</Sterbedatum>
 <Bistum>Kammin</Bistum>
 <Amtsart>Gewählter und providierter Bischof</Amtsart>
 <Amtsbeginn>1385</Amtsbeginn>
 <Amtsende>1386</Amtsende>
-<Reihenfolge_im_Amt>185200</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>185100</Reihenfolge_im_Amt>
 <Wikidata_ID>Q24035218</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -6029,7 +6018,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1398</Amtsbeginn>
 <Amtsende>1410</Amtsende>
-<Reihenfolge_im_Amt>185300</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>185400</Reihenfolge_im_Amt>
 <GND_ID>138244596</GND_ID>
 <Wikidata_ID>Q24024239</Wikidata_ID>
 <VIAF_ID>88290555</VIAF_ID>
@@ -6043,7 +6032,7 @@
 <Amtsart>Providierter Bischof</Amtsart>
 <Amtsbeginn>1386</Amtsbeginn>
 <Amtsende>1394</Amtsende>
-<Reihenfolge_im_Amt>185400</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>185300</Reihenfolge_im_Amt>
 <Wikidata_ID>Q24037734</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -6071,7 +6060,7 @@
 <Amtsart>Erzbischof</Amtsart>
 <Amtsbeginn>1212</Amtsbeginn>
 <Amtsende>1216</Amtsende>
-<Reihenfolge_im_Amt>185600</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>185800</Reihenfolge_im_Amt>
 <GND_ID>124142796</GND_ID>
 <Wikidata_ID>Q68433</Wikidata_ID>
 <GSN_ID>065-00023-001</GSN_ID>
@@ -6103,7 +6092,7 @@
 <Amtsart>Erzbischof</Amtsart>
 <Amtsbeginn>1205</Amtsbeginn>
 <Amtsende>1208</Amtsende>
-<Reihenfolge_im_Amt>185800</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>185600</Reihenfolge_im_Amt>
 <GND_ID>135669154</GND_ID>
 <Wikidata_ID>Q993379</Wikidata_ID>
 <GSN_ID>050-01179-001</GSN_ID>
@@ -6119,7 +6108,7 @@
 <Amtsart>Erzbischof</Amtsart>
 <Amtsbeginn>1225</Amtsbeginn>
 <Amtsende>1238</Amtsende>
-<Reihenfolge_im_Amt>185900</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>186000</Reihenfolge_im_Amt>
 <GND_ID>119108372</GND_ID>
 <Wikidata_ID>Q1597734</Wikidata_ID>
 <GSN_ID>070-01020-001</GSN_ID>
@@ -6136,7 +6125,7 @@
 <Amtsart>Erzbischof</Amtsart>
 <Amtsbeginn>1216</Amtsbeginn>
 <Amtsende>1225</Amtsende>
-<Reihenfolge_im_Amt>186000</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>185900</Reihenfolge_im_Amt>
 <GND_ID>11853033X</GND_ID>
 <Wikidata_ID>Q64802</Wikidata_ID>
 <GSN_ID>064-00647-001</GSN_ID>
@@ -6169,7 +6158,7 @@
 <Amtsart>Erzbischof</Amtsart>
 <Amtsbeginn>1275</Amtsbeginn>
 <Amtsende>1297</Amtsende>
-<Reihenfolge_im_Amt>186200</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>186300</Reihenfolge_im_Amt>
 <GND_ID>118614053</GND_ID>
 <Wikidata_ID>Q73215</Wikidata_ID>
 <GSN_ID>064-02314-001</GSN_ID>
@@ -6186,7 +6175,7 @@
 <Amtsart>Erzbischof</Amtsart>
 <Amtsbeginn>1261</Amtsbeginn>
 <Amtsende>1274</Amtsende>
-<Reihenfolge_im_Amt>186300</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>186200</Reihenfolge_im_Amt>
 <GND_ID>102466505</GND_ID>
 <Wikidata_ID>Q1341910</Wikidata_ID>
 <GSN_ID>050-01799-001</GSN_ID>
@@ -6415,7 +6404,7 @@
 <Amtsbeginn>1293</Amtsbeginn>
 <Reihenfolge_im_Amt>187700</Reihenfolge_im_Amt>
 <GND_ID>1018561412</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037260</Wikidata_ID>
 <VIAF_ID>224450535</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -6428,8 +6417,8 @@
 <Amtsart>Elekt</Amtsart>
 <Amtsbeginn>1306</Amtsbeginn>
 <Amtsende>1307</Amtsende>
-<Reihenfolge_im_Amt>187800</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Reihenfolge_im_Amt>188000</Reihenfolge_im_Amt>
+<Wikidata_ID>Q84037263</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2904-001</WIAG_ID>
@@ -6441,7 +6430,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1293</Amtsbeginn>
 <Amtsende>1306</Amtsende>
-<Reihenfolge_im_Amt>187900</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>187800</Reihenfolge_im_Amt>
 <GND_ID>119510030</GND_ID>
 <Wikidata_ID>Q1597771</Wikidata_ID>
 <GSN_ID>071-00887-001</GSN_ID>
@@ -6457,7 +6446,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1307</Amtsbeginn>
 <Amtsende>1318</Amtsende>
-<Reihenfolge_im_Amt>188000</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>188100</Reihenfolge_im_Amt>
 <GND_ID>1017854580</GND_ID>
 <Wikidata_ID>Q1512843</Wikidata_ID>
 <GSN_ID>069-00733-001</GSN_ID>
@@ -6473,8 +6462,8 @@
 <Amtsart>Elekt</Amtsart>
 <Amtsbeginn>1306</Amtsbeginn>
 <Amtsende>1307</Amtsende>
-<Reihenfolge_im_Amt>188100</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Reihenfolge_im_Amt>187900</Reihenfolge_im_Amt>
+<Wikidata_ID>Q84037264</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2907-001</WIAG_ID>
@@ -6485,9 +6474,9 @@
 <Geburtsdatum>um 1260</Geburtsdatum>
 <Bistum>Konstanz</Bistum>
 <Amtsart>Bischof</Amtsart>
-<Amtsbeginn>1332</Amtsbeginn>
+<Amtsbeginn>1322</Amtsbeginn>
 <Amtsende>1334</Amtsende>
-<Reihenfolge_im_Amt>188200</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>188300</Reihenfolge_im_Amt>
 <GND_ID>137432119</GND_ID>
 <Wikidata_ID>Q1497108</Wikidata_ID>
 <GSN_ID>023-02574-001</GSN_ID>
@@ -6503,20 +6492,19 @@
 <Amtsart>Elekt</Amtsart>
 <Amtsbeginn>1318</Amtsbeginn>
 <Amtsende>1319</Amtsende>
-<Reihenfolge_im_Amt>188300</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Reihenfolge_im_Amt>188200</Reihenfolge_im_Amt>
+<Wikidata_ID>Q84037271</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2909-001</WIAG_ID>
 <Vorname>Heinrich</Vorname>
-<Praefix>Truchseß von</Praefix>
-<Familienname>Dießenhofen</Familienname>
+<Familienname>Truchseß von Dießenhofen</Familienname>
 <Sterbedatum>1376</Sterbedatum>
 <Bistum>Konstanz</Bistum>
 <Amtsart>Elekt</Amtsart>
 <Amtsbeginn>1344</Amtsbeginn>
 <Amtsende>1345</Amtsende>
-<Reihenfolge_im_Amt>188400</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>188500</Reihenfolge_im_Amt>
 <GND_ID>100945651</GND_ID>
 <Wikidata_ID>Q28061300</Wikidata_ID>
 <GSN_ID>023-01582-001</GSN_ID>
@@ -6525,15 +6513,14 @@
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2910-001</WIAG_ID>
 <Vorname>Konrad</Vorname>
-<Praefix>Truchseß von</Praefix>
-<Familienname>Dießenhofen</Familienname>
+<Familienname>Truchseß von Dießenhofen</Familienname>
 <Sterbedatum>1368</Sterbedatum>
 <Bistum>Konstanz</Bistum>
 <Amtsart>Elekt</Amtsart>
 <Amtsbeginn>1344</Amtsbeginn>
 <Amtsende>1345</Amtsende>
-<Reihenfolge_im_Amt>188500</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Reihenfolge_im_Amt>188600</Reihenfolge_im_Amt>
+<Wikidata_ID>Q84037272</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2911-001</WIAG_ID>
@@ -6546,7 +6533,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1334</Amtsbeginn>
 <Amtsende>1344</Amtsende>
-<Reihenfolge_im_Amt>188600</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>188400</Reihenfolge_im_Amt>
 <GND_ID>138244677</GND_ID>
 <Wikidata_ID>Q1487461</Wikidata_ID>
 <GSN_ID>023-02219-001</GSN_ID>
@@ -6561,7 +6548,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1351</Amtsbeginn>
 <Amtsende>1356</Amtsende>
-<Reihenfolge_im_Amt>188700</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>188800</Reihenfolge_im_Amt>
 <GND_ID>1017854629</GND_ID>
 <Wikidata_ID>Q1618254</Wikidata_ID>
 <GSN_ID>023-01792-001</GSN_ID>
@@ -6577,7 +6564,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1344</Amtsbeginn>
 <Amtsende>1351</Amtsende>
-<Reihenfolge_im_Amt>188800</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>188700</Reihenfolge_im_Amt>
 <GND_ID>139112197</GND_ID>
 <Wikidata_ID>Q2476460</Wikidata_ID>
 <GSN_ID>023-03011-001</GSN_ID>
@@ -6593,7 +6580,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1357</Amtsbeginn>
 <Amtsende>1383</Amtsende>
-<Reihenfolge_im_Amt>188900</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>189000</Reihenfolge_im_Amt>
 <GND_ID>138744041</GND_ID>
 <Wikidata_ID>Q1597800</Wikidata_ID>
 <GSN_ID>069-00901-001</GSN_ID>
@@ -6609,7 +6596,7 @@
 <Amtsart>Bischof, avignonesische Obödienz</Amtsart>
 <Amtsbeginn>1384</Amtsbeginn>
 <Amtsende>1385</Amtsende>
-<Reihenfolge_im_Amt>189000</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>189100</Reihenfolge_im_Amt>
 <GND_ID>137967810</GND_ID>
 <Wikidata_ID>Q1890235</Wikidata_ID>
 <VIAF_ID>86127374</VIAF_ID>
@@ -6624,7 +6611,7 @@
 <Amtsart>Elekt</Amtsart>
 <Amtsbeginn>1356</Amtsbeginn>
 <Amtsende>1357</Amtsende>
-<Reihenfolge_im_Amt>189100</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>188900</Reihenfolge_im_Amt>
 <Wikidata_ID>Q2477003</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -6637,7 +6624,7 @@
 <Amtsart>Bischof, römische Oböedienz</Amtsart>
 <Amtsbeginn>1388</Amtsbeginn>
 <Amtsende>1398</Amtsende>
-<Reihenfolge_im_Amt>189200</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>189300</Reihenfolge_im_Amt>
 <GND_ID>138736448</GND_ID>
 <Wikidata_ID>Q59286519</Wikidata_ID>
 <GSN_ID>069-00389-001</GSN_ID>
@@ -6652,7 +6639,7 @@
 <Amtsart>Bischof, avignonesische Oböedienz</Amtsart>
 <Amtsbeginn>1387</Amtsbeginn>
 <Amtsende>1388</Amtsende>
-<Reihenfolge_im_Amt>189300</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>189200</Reihenfolge_im_Amt>
 <GND_ID>135949149</GND_ID>
 <Wikidata_ID>Q55127476</Wikidata_ID>
 <VIAF_ID>80378187</VIAF_ID>
@@ -6667,7 +6654,7 @@
 <Amtsart>Bischof, römische Oböedienz</Amtsart>
 <Amtsbeginn>1398</Amtsbeginn>
 <Amtsende>1406</Amtsende>
-<Reihenfolge_im_Amt>189400</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>189500</Reihenfolge_im_Amt>
 <GND_ID>137363559</GND_ID>
 <Wikidata_ID>Q1902426</Wikidata_ID>
 <GSN_ID>023-02075-001</GSN_ID>
@@ -6682,7 +6669,7 @@
 <Amtsart>Bischof, römische Oböedienz</Amtsart>
 <Amtsbeginn>1407</Amtsbeginn>
 <Amtsende>1410</Amtsende>
-<Reihenfolge_im_Amt>189500</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>189600</Reihenfolge_im_Amt>
 <GND_ID>1017854483</GND_ID>
 <Wikidata_ID>Q1451105</Wikidata_ID>
 <GSN_ID>023-00041-001</GSN_ID>
@@ -6697,7 +6684,7 @@
 <Bistum>Konstanz</Bistum>
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1398</Amtsbeginn>
-<Reihenfolge_im_Amt>189600</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>189400</Reihenfolge_im_Amt>
 <GND_ID>138740380</GND_ID>
 <Wikidata_ID>Q76300077</Wikidata_ID>
 <VIAF_ID>90996493</VIAF_ID>
@@ -6712,7 +6699,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1434</Amtsbeginn>
 <Amtsende>1436</Amtsende>
-<Reihenfolge_im_Amt>189700</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>189800</Reihenfolge_im_Amt>
 <GND_ID>1017854548</GND_ID>
 <Wikidata_ID>Q1243041</Wikidata_ID>
 <GSN_ID>069-00672-001</GSN_ID>
@@ -6729,7 +6716,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1410</Amtsbeginn>
 <Amtsende>1434</Amtsende>
-<Reihenfolge_im_Amt>189800</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>189700</Reihenfolge_im_Amt>
 <GND_ID>14396111X</GND_ID>
 <Wikidata_ID>Q104689</Wikidata_ID>
 <GSN_ID>056-01243-001</GSN_ID>
@@ -6745,7 +6732,7 @@
 <Amtsende>1263</Amtsende>
 <Reihenfolge_im_Amt>189900</Reihenfolge_im_Amt>
 <GND_ID>119252937</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037275</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2926-001</WIAG_ID>
@@ -6771,7 +6758,7 @@
 <Amtsbeginn>1275</Amtsbeginn>
 <Amtsende>1291</Amtsende>
 <Reihenfolge_im_Amt>190100</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037278</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2928-001</WIAG_ID>
@@ -6796,7 +6783,7 @@
 <Amtsbeginn>1303</Amtsbeginn>
 <Amtsende>1311</Amtsende>
 <Reihenfolge_im_Amt>190300</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037279</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2930-001</WIAG_ID>
@@ -6819,7 +6806,7 @@
 <Amtsbeginn>1319</Amtsbeginn>
 <Amtsende>1323</Amtsende>
 <Reihenfolge_im_Amt>190500</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037203</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2932-001</WIAG_ID>
@@ -6929,7 +6916,7 @@
 <Amtsbeginn>1245</Amtsbeginn>
 <Amtsende>1250</Amtsende>
 <Reihenfolge_im_Amt>191300</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037195</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2941-001</WIAG_ID>
@@ -6941,7 +6928,7 @@
 <Amtsende>1236/37</Amtsende>
 <Reihenfolge_im_Amt>191400</Reihenfolge_im_Amt>
 <GND_ID>1069610046</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037281</Wikidata_ID>
 <VIAF_ID>315559906</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -6970,7 +6957,7 @@
 <Amtsende>1321?</Amtsende>
 <Reihenfolge_im_Amt>191600</Reihenfolge_im_Amt>
 <GND_ID>1072631008</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037283</Wikidata_ID>
 <VIAF_ID>316500458</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -6982,7 +6969,7 @@
 <Amtsbeginn>1322</Amtsbeginn>
 <Amtsende>1330/32?</Amtsende>
 <Reihenfolge_im_Amt>191700</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037286</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2945-001</WIAG_ID>
@@ -7015,7 +7002,7 @@
 <Amtsbeginn>1332</Amtsbeginn>
 <Amtsende>1353</Amtsende>
 <Reihenfolge_im_Amt>192000</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037287</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2948-001</WIAG_ID>
@@ -7026,7 +7013,7 @@
 <Amtsbeginn>1360</Amtsbeginn>
 <Amtsende>1371?</Amtsende>
 <Reihenfolge_im_Amt>192100</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037292</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2949-001</WIAG_ID>
@@ -7037,7 +7024,7 @@
 <Amtsbeginn>1371</Amtsbeginn>
 <Amtsende>1398?</Amtsende>
 <Reihenfolge_im_Amt>192200</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037294</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-2950-001</WIAG_ID>
@@ -7737,7 +7724,7 @@
 <Amtsende>1210</Amtsende>
 <Reihenfolge_im_Amt>199100</Reihenfolge_im_Amt>
 <GND_ID>1042515115</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037296</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3024-001</WIAG_ID>
@@ -7748,7 +7735,7 @@
 <Amtsbeginn>1210</Amtsbeginn>
 <Amtsende>1230</Amtsende>
 <Reihenfolge_im_Amt>199200</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037298</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3025-001</WIAG_ID>
@@ -7760,7 +7747,7 @@
 <Amtsbeginn>1230</Amtsbeginn>
 <Amtsende>1247</Amtsende>
 <Reihenfolge_im_Amt>199300</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037300</Wikidata_ID>
 <GSN_ID>060-02170-001</GSN_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -7895,7 +7882,7 @@
 <Amtsbeginn>1379</Amtsbeginn>
 <Amtsende>1382</Amtsende>
 <Reihenfolge_im_Amt>200200</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037301</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3035-001</WIAG_ID>
@@ -7937,7 +7924,7 @@
 <Amtsart>Elekt</Amtsart>
 <Amtsbeginn>1399</Amtsbeginn>
 <Reihenfolge_im_Amt>200500</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037304</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3038-001</WIAG_ID>
@@ -7966,7 +7953,6 @@
 <Amtsbeginn>1200</Amtsbeginn>
 <Amtsende>1229</Amtsende>
 <Reihenfolge_im_Amt>200700</Reihenfolge_im_Amt>
-<GND_ID>154702692</GND_ID>
 <Wikidata_ID>Q1873075</Wikidata_ID>
 <GSN_ID>030-03029-001</GSN_ID>
 </qryWIAGBischoefeGatzXML_v2>
@@ -8008,7 +7994,7 @@
 <Amtsbeginn>1238</Amtsbeginn>
 <Amtsende>1239</Amtsende>
 <Reihenfolge_im_Amt>201000</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037306</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3044-001</WIAG_ID>
@@ -8172,7 +8158,7 @@
 <Amtsart>Bischof, avignonesische Obödienz</Amtsart>
 <Amtsbeginn>1378</Amtsbeginn>
 <Reihenfolge_im_Amt>202100</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037308</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3055-001</WIAG_ID>
@@ -8431,7 +8417,7 @@
 <Amtsbeginn>1325</Amtsbeginn>
 <Amtsende>1327</Amtsende>
 <Reihenfolge_im_Amt>203800</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037316</Wikidata_ID>
 <GSN_ID>005-03798-001</GSN_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -9001,10 +8987,10 @@
 <Sterbedatum>frühestens 1405</Sterbedatum>
 <Bistum>Meißen</Bistum>
 <Amtsart>Elekt</Amtsart>
-<Amtsbeginn>1377</Amtsbeginn>
-<Amtsende>1379</Amtsende>
+<Amtsbeginn>1392</Amtsbeginn>
+<Amtsende>1393</Amtsende>
 <Reihenfolge_im_Amt>207400</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037319</Wikidata_ID>
 <GSN_ID>071-00449-001</GSN_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -9245,7 +9231,7 @@
 <Amtsart>Ernannter Bischof</Amtsart>
 <Amtsbeginn>1382</Amtsbeginn>
 <Reihenfolge_im_Amt>209000</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037321</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3128-001</WIAG_ID>
@@ -9274,7 +9260,7 @@
 <Amtsende>1403</Amtsende>
 <Reihenfolge_im_Amt>209200</Reihenfolge_im_Amt>
 <GND_ID>1168637864</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037323</Wikidata_ID>
 <VIAF_ID>29153953155705560591</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -9318,7 +9304,7 @@
 <Amtsbeginn>1402</Amtsbeginn>
 <Amtsende>1403</Amtsende>
 <Reihenfolge_im_Amt>209500</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037326</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3133-001</WIAG_ID>
@@ -9445,7 +9431,7 @@
 <Amtsart>Elekt</Amtsart>
 <Amtsbeginn>1261</Amtsbeginn>
 <Reihenfolge_im_Amt>210400</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025009</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3143-001</WIAG_ID>
@@ -9816,7 +9802,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1381</Amtsbeginn>
 <Amtsende>1392</Amtsende>
-<Reihenfolge_im_Amt>213000</Reihenfolge_im_Amt>
+<Reihenfolge_im_Amt>214950</Reihenfolge_im_Amt>
 <GND_ID>105925123X</GND_ID>
 <Wikidata_ID>Q1594196</Wikidata_ID>
 <GSN_ID>066-02470-001</GSN_ID>
@@ -9896,7 +9882,7 @@
 <Amtsbeginn>1403</Amtsbeginn>
 <Amtsende>1404</Amtsende>
 <Reihenfolge_im_Amt>213600</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025012</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3176-001</WIAG_ID>
@@ -10469,7 +10455,7 @@
 <Amtsart>Elekt</Amtsart>
 <Amtsbeginn>1374/81</Amtsbeginn>
 <Reihenfolge_im_Amt>217600</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025017</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3219-001</WIAG_ID>
@@ -10566,7 +10552,7 @@
 <Amtsende>1457</Amtsende>
 <Reihenfolge_im_Amt>218300</Reihenfolge_im_Amt>
 <GND_ID>135882419</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025019</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3227-001</WIAG_ID>
@@ -10705,7 +10691,7 @@
 <Amtsende>1227</Amtsende>
 <Reihenfolge_im_Amt>220600</Reihenfolge_im_Amt>
 <GND_ID>1034904825</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025021</Wikidata_ID>
 <VIAF_ID>303438303</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -11032,7 +11018,7 @@
 <Amtsbeginn>1277</Amtsbeginn>
 <Amtsende>1279</Amtsende>
 <Reihenfolge_im_Amt>222700</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025023</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3273-001</WIAG_ID>
@@ -11403,7 +11389,7 @@
 <Amtsende>1315</Amtsende>
 <Reihenfolge_im_Amt>225100</Reihenfolge_im_Amt>
 <GND_ID>1114508365</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025024</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3298-001</WIAG_ID>
@@ -11512,7 +11498,7 @@
 <Amtsbeginn>1387</Amtsbeginn>
 <Reihenfolge_im_Amt>225800</Reihenfolge_im_Amt>
 <GND_ID>1114509752</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025026</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3307-001</WIAG_ID>
@@ -11536,7 +11522,7 @@
 <Amtsende>1259</Amtsende>
 <Reihenfolge_im_Amt>226000</Reihenfolge_im_Amt>
 <GND_ID>107088734X</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025030</Wikidata_ID>
 <VIAF_ID>315955320</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -11548,7 +11534,7 @@
 <Amtsbeginn>1277/78</Amtsbeginn>
 <Amtsende>1292</Amtsende>
 <Reihenfolge_im_Amt>226100</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037240</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3310-001</WIAG_ID>
@@ -11593,7 +11579,7 @@
 <Amtsende>1331</Amtsende>
 <Reihenfolge_im_Amt>226500</Reihenfolge_im_Amt>
 <GND_ID>139481621</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025032</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3314-001</WIAG_ID>
@@ -11607,7 +11593,7 @@
 <Amtsende>1346</Amtsende>
 <Reihenfolge_im_Amt>226600</Reihenfolge_im_Amt>
 <GND_ID>1072634384</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025039</Wikidata_ID>
 <VIAF_ID>316500598</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -11620,7 +11606,7 @@
 <Amtsende>1360</Amtsende>
 <Reihenfolge_im_Amt>226700</Reihenfolge_im_Amt>
 <GND_ID>1069558893</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025040</Wikidata_ID>
 <VIAF_ID>315558301</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -11634,7 +11620,7 @@
 <Amtsbeginn>1360</Amtsbeginn>
 <Amtsende>1376</Amtsende>
 <Reihenfolge_im_Amt>226800</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025042</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3317-001</WIAG_ID>
@@ -11647,7 +11633,7 @@
 <Amtsende>1409</Amtsende>
 <Reihenfolge_im_Amt>226900</Reihenfolge_im_Amt>
 <GND_ID>138419914</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025044</Wikidata_ID>
 <VIAF_ID>89963760</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -11661,7 +11647,7 @@
 <Amtsende>1417</Amtsende>
 <Reihenfolge_im_Amt>227000</Reihenfolge_im_Amt>
 <GND_ID>136279139</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025047</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3319-001</WIAG_ID>
@@ -11685,7 +11671,7 @@
 <Amtsende>1427</Amtsende>
 <Reihenfolge_im_Amt>227200</Reihenfolge_im_Amt>
 <GND_ID>108156427X</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025050</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3322-001</WIAG_ID>
@@ -11992,7 +11978,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1240(?)</Amtsbeginn>
 <Reihenfolge_im_Amt>229500</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025053</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3346-001</WIAG_ID>
@@ -12031,7 +12017,7 @@
 <Amtsende>1228</Amtsende>
 <Reihenfolge_im_Amt>229800</Reihenfolge_im_Amt>
 <GND_ID>139152229</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037240</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3349-001</WIAG_ID>
@@ -12055,7 +12041,7 @@
 <Amtsbeginn>1228</Amtsbeginn>
 <Amtsende>1235</Amtsende>
 <Reihenfolge_im_Amt>230000</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025057</Wikidata_ID>
 <GSN_ID>060-01397-001</GSN_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -12066,7 +12052,7 @@
 <Amtsbeginn>1235/36</Amtsbeginn>
 <Reihenfolge_im_Amt>230100</Reihenfolge_im_Amt>
 <GND_ID>137961189</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025063</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3352-001</WIAG_ID>
@@ -12091,7 +12077,7 @@
 <Amtsbeginn>1250</Amtsbeginn>
 <Amtsende>1257</Amtsende>
 <Reihenfolge_im_Amt>230300</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025064</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3354-001</WIAG_ID>
@@ -12117,7 +12103,7 @@
 <Amtsbeginn>1284</Amtsbeginn>
 <Amtsende>1291</Amtsende>
 <Reihenfolge_im_Amt>230500</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025067</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3356-001</WIAG_ID>
@@ -12189,7 +12175,7 @@
 <Amtsende>1367</Amtsende>
 <Reihenfolge_im_Amt>231000</Reihenfolge_im_Amt>
 <GND_ID>135671302</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025071</Wikidata_ID>
 <VIAF_ID>47984507</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -12228,7 +12214,7 @@
 <Amtsbeginn>1395</Amtsbeginn>
 <Amtsende>1418</Amtsende>
 <Reihenfolge_im_Amt>231300</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025072</Wikidata_ID>
 <GSN_ID>003-01687-001</GSN_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -12310,7 +12296,7 @@
 <Amtsende>1227</Amtsende>
 <Reihenfolge_im_Amt>231900</Reihenfolge_im_Amt>
 <GND_ID>129307246</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025074</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3371-001</WIAG_ID>
@@ -12323,7 +12309,7 @@
 <Amtsbeginn>1247</Amtsbeginn>
 <Reihenfolge_im_Amt>232000</Reihenfolge_im_Amt>
 <GND_ID>129307270</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025077</Wikidata_ID>
 <VIAF_ID>30612950</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -12353,7 +12339,7 @@
 <Amtsende>1260</Amtsende>
 <Reihenfolge_im_Amt>232200</Reihenfolge_im_Amt>
 <GND_ID>129307378</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025078</Wikidata_ID>
 <VIAF_ID>72468769</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -12444,7 +12430,7 @@
 <Amtsbeginn>1340</Amtsbeginn>
 <Reihenfolge_im_Amt>232800</Reihenfolge_im_Amt>
 <GND_ID>129307440</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025080</Wikidata_ID>
 <VIAF_ID>28146702</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -12504,7 +12490,7 @@
 <Amtsende>1384</Amtsende>
 <Reihenfolge_im_Amt>233200</Reihenfolge_im_Amt>
 <GND_ID>130080810</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025087</Wikidata_ID>
 <VIAF_ID>35552903</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -12577,7 +12563,7 @@
 <Amtsbeginn>1428</Amtsbeginn>
 <Reihenfolge_im_Amt>233700</Reihenfolge_im_Amt>
 <GND_ID>129309540</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025091</Wikidata_ID>
 <VIAF_ID>60159189</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -12606,7 +12592,7 @@
 <Amtsbeginn>1219</Amtsbeginn>
 <Amtsende>1227</Amtsende>
 <Reihenfolge_im_Amt>233900</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025092</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3392-001</WIAG_ID>
@@ -12617,7 +12603,7 @@
 <Amtsbeginn>1238/40</Amtsbeginn>
 <Amtsende>1260</Amtsende>
 <Reihenfolge_im_Amt>234000</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025094</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3393-001</WIAG_ID>
@@ -12628,7 +12614,7 @@
 <Amtsbeginn>1260/63</Amtsbeginn>
 <Amtsende>1279</Amtsende>
 <Reihenfolge_im_Amt>234100</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025096</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3394-001</WIAG_ID>
@@ -12638,7 +12624,7 @@
 <Bistum>Reval</Bistum>
 <Amtsbeginn>1295/98</Amtsbeginn>
 <Reihenfolge_im_Amt>234200</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025097</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3395-001</WIAG_ID>
@@ -12649,7 +12635,7 @@
 <Amtsbeginn>1280</Amtsbeginn>
 <Amtsende>1294?</Amtsende>
 <Reihenfolge_im_Amt>234300</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025099</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3396-001</WIAG_ID>
@@ -12662,7 +12648,7 @@
 <Amtsbeginn>1352</Amtsbeginn>
 <Amtsende>1389?</Amtsende>
 <Reihenfolge_im_Amt>234400</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025101</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3397-001</WIAG_ID>
@@ -12673,7 +12659,7 @@
 <Amtsbeginn>1298</Amtsbeginn>
 <Amtsende>1322/23</Amtsende>
 <Reihenfolge_im_Amt>234500</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037240</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3398-001</WIAG_ID>
@@ -12686,7 +12672,7 @@
 <Amtsbeginn>1323</Amtsbeginn>
 <Amtsende>1351?</Amtsende>
 <Reihenfolge_im_Amt>234600</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025104</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3399-001</WIAG_ID>
@@ -12724,7 +12710,7 @@
 <Amtsbeginn>1390</Amtsbeginn>
 <Amtsende>1403?</Amtsende>
 <Reihenfolge_im_Amt>234900</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025110</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3402-001</WIAG_ID>
@@ -12751,7 +12737,7 @@
 <Amtsende>1456</Amtsende>
 <Reihenfolge_im_Amt>235100</Reihenfolge_im_Amt>
 <GND_ID>1173170391</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025112</Wikidata_ID>
 <VIAF_ID>7213154501876739210004</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -13280,7 +13266,7 @@
 <Amtsbeginn>1251</Amtsbeginn>
 <Amtsende>1256/57?</Amtsende>
 <Reihenfolge_im_Amt>238600</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025114</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3442-001</WIAG_ID>
@@ -13338,7 +13324,7 @@
 <Amtsende>1310</Amtsende>
 <Reihenfolge_im_Amt>239000</Reihenfolge_im_Amt>
 <GND_ID>1159103836</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025121</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3446-001</WIAG_ID>
@@ -13364,7 +13350,7 @@
 <Amtsende>1378</Amtsende>
 <Reihenfolge_im_Amt>239200</Reihenfolge_im_Amt>
 <GND_ID>1077385463</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025122</Wikidata_ID>
 <VIAF_ID>245144647643226012944</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -13415,7 +13401,7 @@
 <Amtsbeginn>1395</Amtsbeginn>
 <Amtsende>1414</Amtsende>
 <Reihenfolge_im_Amt>239600</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025124</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3452-001</WIAG_ID>
@@ -13429,7 +13415,7 @@
 <Amtsbeginn>1414</Amtsbeginn>
 <Amtsende>1416</Amtsende>
 <Reihenfolge_im_Amt>239700</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025126</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3453-001</WIAG_ID>
@@ -13454,7 +13440,7 @@
 <Amtsbeginn>1416</Amtsbeginn>
 <Amtsende>1425</Amtsende>
 <Reihenfolge_im_Amt>239900</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025133</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3456-001</WIAG_ID>
@@ -13476,7 +13462,7 @@
 <Amtsbeginn>1208</Amtsbeginn>
 <Amtsende>1233/34</Amtsende>
 <Reihenfolge_im_Amt>240100</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037203</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3458-001</WIAG_ID>
@@ -13487,7 +13473,7 @@
 <Amtsbeginn>1255</Amtsbeginn>
 <Amtsende>1265</Amtsende>
 <Reihenfolge_im_Amt>240200</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037203</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3459-001</WIAG_ID>
@@ -13498,7 +13484,7 @@
 <Amtsbeginn>1244</Amtsbeginn>
 <Amtsende>1255</Amtsende>
 <Reihenfolge_im_Amt>240300</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025134</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3460-001</WIAG_ID>
@@ -13509,7 +13495,7 @@
 <Amtsbeginn>1240</Amtsbeginn>
 <Amtsende>1244</Amtsende>
 <Reihenfolge_im_Amt>240400</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025099</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3461-001</WIAG_ID>
@@ -13520,7 +13506,7 @@
 <Amtsbeginn>1282</Amtsbeginn>
 <Amtsende>1287</Amtsende>
 <Reihenfolge_im_Amt>240500</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037292</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3462-001</WIAG_ID>
@@ -13531,7 +13517,7 @@
 <Amtsbeginn>1266</Amtsbeginn>
 <Amtsende>1282</Amtsende>
 <Reihenfolge_im_Amt>240600</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025136</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3463-001</WIAG_ID>
@@ -13542,7 +13528,7 @@
 <Amtsbeginn>1287</Amtsbeginn>
 <Amtsende>1307</Amtsende>
 <Reihenfolge_im_Amt>240700</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025139</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3464-001</WIAG_ID>
@@ -13567,7 +13553,7 @@
 <Amtsbeginn>1331</Amtsbeginn>
 <Amtsende>1342/43</Amtsende>
 <Reihenfolge_im_Amt>240900</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025140</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3466-001</WIAG_ID>
@@ -13619,7 +13605,7 @@
 <Amtsart>Elekt</Amtsart>
 <Amtsbeginn>1375</Amtsbeginn>
 <Reihenfolge_im_Amt>241300</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025142</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3470-001</WIAG_ID>
@@ -13646,7 +13632,7 @@
 <Amtsbeginn>1424</Amtsbeginn>
 <Amtsende>1428/29?</Amtsende>
 <Reihenfolge_im_Amt>241500</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025144</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3473-001</WIAG_ID>
@@ -14422,7 +14408,7 @@
 <Amtsende>1338</Amtsende>
 <Reihenfolge_im_Amt>247200</Reihenfolge_im_Amt>
 <GND_ID>113905497X</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025146</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3534-001</WIAG_ID>
@@ -14434,7 +14420,7 @@
 <Amtsbeginn>1338</Amtsbeginn>
 <Amtsende>1342</Amtsende>
 <Reihenfolge_im_Amt>247300</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025150</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3535-001</WIAG_ID>
@@ -14448,7 +14434,7 @@
 <Amtsende>1375</Amtsende>
 <Reihenfolge_im_Amt>247400</Reihenfolge_im_Amt>
 <GND_ID>1121238467</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025154</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3536-001</WIAG_ID>
@@ -14460,7 +14446,7 @@
 <Amtsbeginn>1389</Amtsbeginn>
 <Amtsende>1383</Amtsende>
 <Reihenfolge_im_Amt>247500</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025156</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3537-001</WIAG_ID>
@@ -14475,7 +14461,7 @@
 <Amtsende>1386(?)</Amtsende>
 <Reihenfolge_im_Amt>247600</Reihenfolge_im_Amt>
 <GND_ID>139581405</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025157</Wikidata_ID>
 <VIAF_ID>101306066</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -14488,7 +14474,7 @@
 <Amtsart>Bischof</Amtsart>
 <Amtsbeginn>1386</Amtsbeginn>
 <Reihenfolge_im_Amt>247700</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025160</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3539-001</WIAG_ID>
@@ -14500,7 +14486,7 @@
 <Amtsbeginn>1388</Amtsbeginn>
 <Amtsende>1392</Amtsende>
 <Reihenfolge_im_Amt>247800</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025162</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3540-001</WIAG_ID>
@@ -14528,7 +14514,7 @@
 <Amtsende>1402</Amtsende>
 <Reihenfolge_im_Amt>248000</Reihenfolge_im_Amt>
 <GND_ID>139143939</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025164</Wikidata_ID>
 <VIAF_ID>100447190</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -14963,7 +14949,7 @@
 <Amtsende>1210</Amtsende>
 <Reihenfolge_im_Amt>250900</Reihenfolge_im_Amt>
 <GND_ID>136668712</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025169</Wikidata_ID>
 <VIAF_ID>80974477</VIAF_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
@@ -15003,7 +14989,7 @@
 <Amtsbeginn>1217</Amtsbeginn>
 <Amtsende>1219</Amtsende>
 <Reihenfolge_im_Amt>251200</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037480</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3577-001</WIAG_ID>
@@ -15096,7 +15082,7 @@
 <Amtsbeginn>1306</Amtsbeginn>
 <Amtsende>1307</Amtsende>
 <Reihenfolge_im_Amt>251900</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037487</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3584-001</WIAG_ID>
@@ -15219,7 +15205,7 @@
 <Amtsende>1399</Amtsende>
 <Reihenfolge_im_Amt>252800</Reihenfolge_im_Amt>
 <GND_ID>1072230941</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037489</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3593-001</WIAG_ID>
@@ -15258,7 +15244,7 @@
 <Amtsbeginn>1189</Amtsbeginn>
 <Amtsende>1205</Amtsende>
 <Reihenfolge_im_Amt>253100</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037493</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3597-001</WIAG_ID>
@@ -15286,7 +15272,7 @@
 <Amtsbeginn>1219</Amtsbeginn>
 <Amtsende>1223</Amtsende>
 <Reihenfolge_im_Amt>253300</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037496</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3599-001</WIAG_ID>
@@ -15298,7 +15284,7 @@
 <Amtsbeginn>1224</Amtsbeginn>
 <Amtsende>1232</Amtsende>
 <Reihenfolge_im_Amt>253400</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037498</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3600-001</WIAG_ID>
@@ -15406,7 +15392,7 @@
 <Amtsbeginn>1348</Amtsbeginn>
 <Amtsende>1349</Amtsende>
 <Reihenfolge_im_Amt>254200</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037500</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3608-001</WIAG_ID>
@@ -15419,7 +15405,7 @@
 <Amtsbeginn>1347</Amtsbeginn>
 <Amtsende>1348</Amtsende>
 <Reihenfolge_im_Amt>254300</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037501</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3609-001</WIAG_ID>
@@ -15433,7 +15419,7 @@
 <Amtsende>1390</Amtsende>
 <Reihenfolge_im_Amt>254400</Reihenfolge_im_Amt>
 <GND_ID>1073989410</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037504</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3610-001</WIAG_ID>
@@ -15474,7 +15460,7 @@
 <Amtsbeginn>1420</Amtsbeginn>
 <Amtsende>1421</Amtsende>
 <Reihenfolge_im_Amt>254700</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037509</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3613-001</WIAG_ID>
@@ -15486,7 +15472,7 @@
 <Amtsbeginn>1422</Amtsbeginn>
 <Amtsende>1423</Amtsende>
 <Reihenfolge_im_Amt>254800</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037510</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3614-001</WIAG_ID>
@@ -15512,7 +15498,7 @@
 <Amtsbeginn>1444</Amtsbeginn>
 <Amtsende>1446</Amtsende>
 <Reihenfolge_im_Amt>255000</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037512</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3616-001</WIAG_ID>
@@ -15525,7 +15511,7 @@
 <Amtsbeginn>1444</Amtsbeginn>
 <Amtsende>1446</Amtsende>
 <Reihenfolge_im_Amt>255100</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037514</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3618-001</WIAG_ID>
@@ -15734,7 +15720,7 @@
 <Amtsbeginn>1199</Amtsbeginn>
 <Amtsende>1212</Amtsende>
 <Reihenfolge_im_Amt>256400</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037516</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3632-001</WIAG_ID>
@@ -15746,7 +15732,7 @@
 <Amtsbeginn>1213</Amtsbeginn>
 <Amtsende>1230</Amtsende>
 <Reihenfolge_im_Amt>256500</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037518</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3633-001</WIAG_ID>
@@ -15755,7 +15741,7 @@
 <Amtsart>Elekt</Amtsart>
 <Amtsbeginn>1236/37</Amtsbeginn>
 <Reihenfolge_im_Amt>256600</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037520</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3634-001</WIAG_ID>
@@ -15768,7 +15754,7 @@
 <Amtsbeginn>1255</Amtsbeginn>
 <Amtsende>1281</Amtsende>
 <Reihenfolge_im_Amt>256700</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037522</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3635-001</WIAG_ID>
@@ -15780,7 +15766,7 @@
 <Amtsart>Elekt</Amtsart>
 <Amtsbeginn>1255</Amtsbeginn>
 <Reihenfolge_im_Amt>256800</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037524</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3636-001</WIAG_ID>
@@ -15793,7 +15779,7 @@
 <Amtsbeginn>1234</Amtsbeginn>
 <Amtsende>1254</Amtsende>
 <Reihenfolge_im_Amt>256900</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037530</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3637-001</WIAG_ID>
@@ -15806,7 +15792,7 @@
 <Amtsbeginn>1285</Amtsbeginn>
 <Amtsende>1299</Amtsende>
 <Reihenfolge_im_Amt>257000</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037532</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3638-001</WIAG_ID>
@@ -15819,7 +15805,7 @@
 <Amtsbeginn>1282</Amtsbeginn>
 <Amtsende>1285</Amtsende>
 <Reihenfolge_im_Amt>257100</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037536</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3639-001</WIAG_ID>
@@ -15842,7 +15828,7 @@
 <Amtsbeginn>1320</Amtsbeginn>
 <Amtsende>1327</Amtsende>
 <Reihenfolge_im_Amt>257300</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037539</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3641-001</WIAG_ID>
@@ -15854,7 +15840,7 @@
 <Amtsbeginn>1300</Amtsbeginn>
 <Amtsende>1302</Amtsende>
 <Reihenfolge_im_Amt>257400</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037540</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3642-001</WIAG_ID>
@@ -15867,7 +15853,7 @@
 <Amtsbeginn>1299</Amtsbeginn>
 <Amtsende>1300</Amtsende>
 <Reihenfolge_im_Amt>257500</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037543</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3643-001</WIAG_ID>
@@ -15880,7 +15866,7 @@
 <Amtsbeginn>1330</Amtsbeginn>
 <Amtsende>1341</Amtsende>
 <Reihenfolge_im_Amt>257600</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037549</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3644-001</WIAG_ID>
@@ -15893,7 +15879,7 @@
 <Amtsbeginn>1342</Amtsbeginn>
 <Amtsende>1346</Amtsende>
 <Reihenfolge_im_Amt>257700</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037551</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3645-001</WIAG_ID>
@@ -15906,7 +15892,7 @@
 <Amtsbeginn>1327</Amtsbeginn>
 <Amtsende>1330</Amtsende>
 <Reihenfolge_im_Amt>257800</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037552</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3646-001</WIAG_ID>
@@ -15944,7 +15930,7 @@
 <Amtsbeginn>1349</Amtsbeginn>
 <Amtsende>1369</Amtsende>
 <Reihenfolge_im_Amt>258100</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84037557</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3649-001</WIAG_ID>
@@ -15957,7 +15943,7 @@
 <Amtsende>1408</Amtsende>
 <Reihenfolge_im_Amt>258200</Reihenfolge_im_Amt>
 <GND_ID>104240237</GND_ID>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025238</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3650-001</WIAG_ID>
@@ -15981,7 +15967,7 @@
 <Amtsart>Ernannter Bischof</Amtsart>
 <Amtsbeginn>1408</Amtsbeginn>
 <Reihenfolge_im_Amt>258400</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025239</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3652-001</WIAG_ID>
@@ -15993,7 +15979,7 @@
 <Amtsbeginn>1424</Amtsbeginn>
 <Amtsende>1441</Amtsende>
 <Reihenfolge_im_Amt>258500</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025241</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3653-001</WIAG_ID>
@@ -16006,7 +15992,7 @@
 <Amtsbeginn>1409</Amtsbeginn>
 <Amtsende>1416</Amtsende>
 <Reihenfolge_im_Amt>258600</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025242</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3654-001</WIAG_ID>
@@ -16971,7 +16957,7 @@
 <Amtsbeginn>1277</Amtsbeginn>
 <Amtsende>1283</Amtsende>
 <Reihenfolge_im_Amt>265300</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025244</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-3725-001</WIAG_ID>
@@ -18668,28 +18654,13 @@
 <Reihenfolge_im_Amt>74800</Reihenfolge_im_Amt>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
-<WIAG_ID>WIAG-Pers-EPISCGatz-4638-001</WIAG_ID>
-<Vorname>Gerhard</Vorname>
-<Praefix>von</Praefix>
-<Familienname>Oldenburg-Wildeshausen</Familienname>
-<Bistum>Osnabrück</Bistum>
-<Amtsart>Bischof</Amtsart>
-<Amtsbeginn>1191/92</Amtsbeginn>
-<Amtsende>1216</Amtsende>
-<Reihenfolge_im_Amt>87200</Reihenfolge_im_Amt>
-<GND_ID>136648150</GND_ID>
-<Wikidata_ID>Q263916</Wikidata_ID>
-<GSN_ID>065-01842-001</GSN_ID>
-<VIAF_ID>80957109</VIAF_ID>
-</qryWIAGBischoefeGatzXML_v2>
-<qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-5682-001</WIAG_ID>
 <Vorname>Johannes</Vorname>
 <Bistum>Triest</Bistum>
 <Amtsart>Elekt</Amtsart>
 <Amtsbeginn>1236/37</Amtsbeginn>
 <Reihenfolge_im_Amt>269100</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025099</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-5683-001</WIAG_ID>
@@ -18701,7 +18672,7 @@
 <Amtsbeginn>1320</Amtsbeginn>
 <Amtsende>1327</Amtsende>
 <Reihenfolge_im_Amt>269200</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025245</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-5684-001</WIAG_ID>
@@ -18713,7 +18684,7 @@
 <Amtsbeginn>1324</Amtsbeginn>
 <Amtsende>1327</Amtsende>
 <Reihenfolge_im_Amt>269300</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025247</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-5685-001</WIAG_ID>
@@ -18724,7 +18695,7 @@
 <Amtsart>Ernannter Bischof</Amtsart>
 <Amtsbeginn>1414</Amtsbeginn>
 <Reihenfolge_im_Amt>269400</Reihenfolge_im_Amt>
-<Wikidata_ID>wikidata_wiki</Wikidata_ID>
+<Wikidata_ID>Q84025249</Wikidata_ID>
 </qryWIAGBischoefeGatzXML_v2>
 <qryWIAGBischoefeGatzXML_v2>
 <WIAG_ID>WIAG-Pers-EPISCGatz-12576-001</WIAG_ID>
