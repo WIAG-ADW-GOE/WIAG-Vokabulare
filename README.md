@@ -1,7 +1,8 @@
 # WIAG-Vokabulare
 Arbeitsdateien des Forschungsprojekts WIAG (Wissensaggregator Mittelalter und Frühe Neuzeit).
 
-Die Datei <b>WIAGBischoefeGatzXML.xml</b> enthält alle Bischöfe des Alten Reiches, die in dem mehrbändigen Bischofslexikon "Die Bischöfe des Heiligen Römischen Reiches" sowie "Die Bistümer des Heiligen Römischen Reiches" von Erwin Gatz verzeichnet sind. Work-in-Progress: Auszeichnung aller Datensätze mit Normdaten (GSN, GND, VIAF, Wikidata), Systematisierung der Amtsbezeichnungen, Bistumsbezeichnungen etc. und Mapping auf Vokabulare des Semantik Web.
+Die Datei <b>WIAGBischoefeGatzXML.xml</b> enthält alle Bischöfe und weitere Amtspersonen des Alten Reiches, die in dem mehrbändigen Bischofslexikon "Die Bischöfe des Heiligen Römischen Reiches" sowie "Die Bistümer des Heiligen Römischen Reiches" von Erwin Gatz verzeichnet sind. Work-in-Progress: Auszeichnung aller Datensätze mit Normdaten (GSN, GND, VIAF, Wikidata), Systematisierung der Amtsbezeichnungen, Bistumsbezeichnungen etc. und Mapping auf Vokabulare des Semantik Web.
+Gesamtzahl der Einträge: 4609.
 
 Alle Dateien work-in-progress.
 
