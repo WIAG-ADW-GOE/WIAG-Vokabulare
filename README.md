@@ -1,8 +1,8 @@
 # WIAG-Vokabulare
-Arbeitsdateien des Forschungsprojekts WIAG (Wissensaggregator Mittelalter und Frühe Neuzeit) an der Akademie der Wissenschaften zu Göttingen.
+Wissensaggregator Mittelalter und Frühe Neuzeit, Niedersächsische Akademie der Wissenschaften zu Göttingen.
 
-Die Datei <b>WIAGbishops.xml</b> enthält Basisdaten zu allen Patriarchen, Erzbischöfen, Bischöfen, Weihbischöfen und weiteren diözesanen Leitungspersonen des Alten Reiches, die in dem mehrbändigen Bischofslexikon "Die Bischöfe des Heiligen Römischen Reiches" sowie "Die Bistümer des Heiligen Römischen Reiches" von Erwin Gatz (Hg.) verzeichnet sind. Neben den biographischen Angaben wie Name, Geburtsjahr und Sterbejahr sowie Ordenszugehörigkeit sind die wichtigsten Leitungsämter mit Amtszeiten erfasst. Alle Datensätze sind mit Normdaten (GSN, GND, VIAF, Wikidata) ausgezeichnet.
-Gesamtzahl der Personeneinträge: 5171.
+Das Drittmittelprojekt wurde im März 2023 abgeschlossen.
+Alle Datensammlungen sind auf der Webseite https://wiag-vocab.adw-goe.de/ veröffentlicht.
 
 Lizenz der Dateiinhalte: CC-By-SA 4.0  (https://creativecommons.org/licenses/by-sa/4.0/).
 
