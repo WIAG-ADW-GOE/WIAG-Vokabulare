@@ -6,4 +6,4 @@ Alle Datensammlungen sind auf der Webseite https://wiag-vocab.adw-goe.de/ veröf
 
 Lizenz der Dateiinhalte: CC-By-SA 4.0  (https://creativecommons.org/licenses/by-sa/4.0/).
 
-Weitere Informationen: http://wiag.adw-goe.de.
+Weitere Informationen: https://wiag.adw-goe.de.
